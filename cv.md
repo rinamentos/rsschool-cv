@@ -39,7 +39,7 @@ Due to the lack of experience, I do not have the example of code yet.
 *JavaScript/Front-end. Stage 0* on Rolling Scopes School - in progress
 
 ### Languages:
-English - Upper Intermediate/Advanced (The Bachelor and Master Degree in English Philology)
-Polish - Upper Intermediate/Advanced
-Russian - native
-Ukrainian - native
+**English** - Upper Intermediate/Advanced (The Bachelor and Master Degree in English Philology)
+**Polish** - Upper Intermediate/Advanced
+**Russian** - native
+**Ukrainian** - native
