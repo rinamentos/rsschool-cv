@@ -18,7 +18,7 @@ Currently, I am using these sources to feed myself with the new information or w
 
 
 At the moment, I am studying the full course on Rolling Scopes School on JavaScript/Front End basics. 
-This was a serious step of me in order to start reaching my goal - become a Frontend Developer. 
+This was a serious step of me in order to start reaching my goal - become a **Frontend Developer**. 
 Since, I am the person who learns really quick and who does everything possible to reach the goal, I believe that I will succeed in this.
 Unfortunately, I do not have any experience in Web Developing, except the small tasks which I have done during the courses. 
 However, I always courage knowledge and I am constantly working on self-developing, because I do not like to stay at one point and feel like I do not make any progress for 
